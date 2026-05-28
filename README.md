@@ -79,7 +79,7 @@ A professional security assessment conducted against an Arris BGW210 Series rout
  
 ## Report
  
-📄 /report/IoT_Security_Assessment_HP_Printer.pdff)
+📄 /report/IoT_Security_Assessment_HP_Printer.pdf
  
 ---
  
